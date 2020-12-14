@@ -4,6 +4,8 @@ This is a PHP class library for connecting to the checkrobin Business API.
 
 checkrobin helps you to easily compare products from different logistics partners, print labels and perform tracking of your shipments. 
 
+IMPORTANT: this it the LIVE version of the repo that can be directly referenced from Composer. If you have not yet started or are still in the midst of development, please use the STAGE version https://github.com/checkrobin/Webshopconnect
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
